@@ -1,0 +1,1 @@
+# plugins-payment-qr-woo
